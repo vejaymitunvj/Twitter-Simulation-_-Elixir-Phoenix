@@ -1,0 +1,156 @@
+
+03:50:37.421 [info]  Starting Twitter Simulation Server
+Server started
+Trying to connect to server@10.138.0.16
+Trying to connect to server@10.138.0.16
+Trying to connect to server@10.138.0.16
+
+03:50:37.423 [info]  Client 2 registering with server
+client 2 logged in
+
+03:50:37.423 [info]  Client 1 registering with server
+
+03:50:37.423 [info]  Client 2 has logged in
+
+03:50:37.423 [info]  Client 1 has logged in
+
+03:50:37.423 [info]  Client 3 registering with server
+
+03:50:37.423 [info]  Client 3 has logged in
+client 1 logged in
+client 3 logged in
+client 2 is getting registered
+client 1 is getting registered
+client 3 is getting registered
+
+03:50:37.523 [info]  Starting simulation
+
+03:50:37.523 [info]  Client 2 starting simulation
+
+03:50:37.523 [info]  Client 3 starting simulation
+
+03:50:37.523 [info]  Client 1 starting simulation
+[user 3 feed]: user 3: @3 is cool
+[user 2 feed]: user 2: @2 is cool
+[user 1 feed]: user 1: @3 is cool
+[user 2 feed]: user 2: #COP5615isgreat i love it
+[user 1 feed]: user 1: #COP5615isgreat i love it
+[user 3 feed]: user 3: #COP5615isgreat i love it
+.
+03:50:37.735 [info]  Starting Twitter Simulation Server
+Server started
+[user 1 feed]: user 1: 4t4n8jok5k cat meme
+[user 3 feed]: user 3: ibpmr_27pa oh boi
+[user 2 feed]: user 2: dtr3eurzew dog meme
+[user 3 feed]: user 3: p6-7r0_rsn is the a null key
+[user 1 feed]: user 1: lvqql2fo8f cat meme
+[user 2 feed]: user 2: l3yjvd_nsh oh boi
+[user 2 feed]: user 2: ql6jlwpwhp is the illuminati key
+[user 3 feed]: user 3: 4siygqmhh1 cat meme
+[user 1 feed]: user 1: 67k7exswsj is the illuminati key
+[user 2 feed]: user 2: jkwlgye21n is the a null key
+[user 2 feed]: user 2: wzpodpyigi dog meme
+[user 3 feed]: user 3: jcbjoadv22 cat meme
+[user 2 feed]: user 2: i75equijrf dog meme
+[user 1 feed]: user 1: vp-5grszyh is the a null key
+[user 2 feed]: user 2: pbskty-wbm dog meme
+[user 3 feed]: user 3: wfczjwiumm cat meme
+[user 2 feed]: user 2: ky58h1fbti is the illuminati key
+[user 2 feed]: (live tweet from user 3) user 3: @3 is cool
+[user 2 feed]: (live tweet from user 3) user 3: @3 is cool
+[user 2 feed]: (live tweet from user 3) user 3: @3 is cool
+[user 1 feed]: user 1: 51qfinogdt is the a null key
+[user 2 feed]: retweet: user 3: @3 is cool
+[user 2 feed]: (live tweet from user 3) user 3: #COP5615isgreat i love it
+[user 2 feed]: (live tweet from user 3) user 3: #COP5615isgreat i love it
+[user 2 feed]: (live tweet from user 3) user 3: #COP5615isgreat i love it
+[user 3 feed]: user 3: qeij87fqy4 is the a null key
+[user 2 feed]: retweet: user 3: #COP5615isgreat i love it
+[user 3 feed]: user 3: 3wwm1hztv_ oh boi
+[user 1 feed]: user 1: ttstu8ltkj is the illuminati key
+[user 3 feed]: user 3: vmhvw2zwzp cat meme
+[user 1 feed]: user 1: vtihrgkcwc is the a null key
+[user 3 feed]: (live tweet from user 1) user 1: @3 is cool
+[user 3 feed]: retweet: user 1: @3 is cool
+[user 3 feed]: (live tweet from user 1) user 1: @3 is cool
+[user 3 feed]: (live tweet from user 1) user 1: #COP5615isgreat i love it
+[user 3 feed]: (live tweet from user 1) user 1: #COP5615isgreat i love it
+[user 3 feed]: retweet: user 1: #COP5615isgreat i love it
+[user 1 feed]: user 1: el2ap8w3l2 is the a null key
+[user 1 feed]: (live tweet from user 2) user 2: @2 is cool
+[user 1 feed]: (live tweet from user 2) user 2: @2 is cool
+[user 1 feed]: (live tweet from user 2) user 2: @2 is cool
+[user 1 feed]: (live tweet from user 3) user 3: @3 is cool
+[user 1 feed]: (live tweet from user 3) user 3: @3 is cool
+[user 1 feed]: (live tweet from user 3) user 3: @3 is cool
+[user 1 feed]: retweet: user 3: @3 is cool
+[user 1 feed]: (live tweet from user 3) user 3: @3 is cool
+[user 1 feed]: (live tweet from user 3) user 3: @3 is cool
+[user 1 feed]: (live tweet from user 2) user 2: #COP5615isgreat i love it
+[user 3 feed]: (queried tweet with hashtag #COP5615isgreat) retweet: user 3: #COP5615isgreat i love it
+[user 1 feed]: (live tweet from user 2) user 2: #COP5615isgreat i love it
+[user 3 feed]: (queried tweet with my mention) retweet: user 3: @3 is cool
+[user 1 feed]: (live tweet from user 2) user 2: #COP5615isgreat i love it
+[user 1 feed]: (live tweet from user 3) user 3: #COP5615isgreat i love it
+[user 1 feed]: retweet: user 3: #COP5615isgreat i love it
+[user 1 feed]: (live tweet from user 3) user 3: #COP5615isgreat i love it
+[user 1 feed]: (live tweet from user 3) user 3: #COP5615isgreat i love it
+[user 1 feed]: retweet: user 3: #COP5615isgreat i love it
+[user 1 feed]: (live tweet from user 3) user 3: #COP5615isgreat i love it
+[user 1 feed]: retweet: user 3: #COP5615isgreat i love it
+[user 1 feed]: (live tweet from user 3) user 3: #COP5615isgreat i love it
+[user 1 feed]: (queried tweet with hashtag #COP5615isgreat) retweet: user 1: #COP5615isgreat i love it
+.
+03:50:37.937 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:38.139 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:38.340 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:39.542 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:39.743 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:39.944 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:40.145 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:40.346 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:40.547 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:40.748 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:40.950 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:41.151 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:41.352 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:41.553 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:41.754 [info]  Starting Twitter Simulation Server
+Server started
+.
+03:50:41.955 [info]  Starting Twitter Simulation Server
+Server started
+.
+
+Finished in 4.9 seconds
+18 tests, 0 failures
+
+Randomized with seed 224561
